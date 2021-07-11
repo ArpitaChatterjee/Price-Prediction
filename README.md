@@ -1,1 +1,1 @@
-# Car-Price-Prediction(Full-Stack)
+# Price-Prediction(Full-Stack)
