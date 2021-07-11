@@ -1,0 +1,3 @@
+1. create a new environment (carprice prediction) python-3.7 in conda
+2. go to working directory and launch jupyter notebook
+3. start creating the model
